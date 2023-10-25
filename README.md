@@ -7,6 +7,9 @@ To be up-to-date, I recommend [Gitlab](https://gitlab.com/natramizh)
 - Remember, No ETA
 - I will upload a new config when I have peace of mind (In advance, sorry if it takes months)
 
+# 🤝Thanks
+- Thanks to the people who forked my config and kept it alive 🫡
+
 # CFG Files 
 1. [Download](https://github.com/Natram1zh/Apex-Autoexec-And-Tweaks-/archive/refs/heads/main.zip) and extract it.
 2. Move [autoexec.cfg](https://github.com/Natram1zh/Apex-Autoexec-And-Tweaks-/blob/main/autoexec.cfg), [superglide.cfg](https://github.com/Natram1zh/Apex-Autoexec-And-Tweaks-/blob/main/superglide.cfg), [superglide1.cfg](https://github.com/Natram1zh/Apex-Autoexec-And-Tweaks-/blob/main/superglide1.cfg), [superglide2.cfg](https://github.com/Natram1zh/Apex-Autoexec-And-Tweaks-/blob/main/superglide2.cfg) and [reticles.cfg](https://github.com/Natram1zh/Apex-Autoexec-And-Tweaks-/blob/main/reticles.cfg) to the games directory cfg folder (Usually in C:\Program Files (x86)\Steam\steamapps\common\Apex Legends\cfg).
