@@ -14,6 +14,8 @@
 | `-dev` | Skips EA intro on startup, can cause HUD flicker issues on NVIDIA cards |
 | `-fullscreen` | Forces the game to launch in fullscreen mode |
 | `-high` | Attempts to set the game's priority to "high" for Windows resources |
+| `-anticheat_settings=SettingsDX11.json` | Forces the game to launch in DX11|
+| `-anticheat_settings=SettingsDX12.json` | Forces the game to launch in DX12|
 
 # Videoconfig
 6. Press Win+R while you are on your desktop.
