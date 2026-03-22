@@ -1,0 +1,21 @@
+{
+  "name": "apex-legends-config",
+  "version": "1.0.4",
+  "description": "Rollout for different Apex Config presets",
+  "main": "index.js",
+  "repository": "git@github.com:pwnyprod/Apex-Legends-Config.git",
+  "author": "pwnyprod <info@it-jh.de>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "build": "rollup -c",
+    "format": "prettier --write \"./**/*.js\""
+  },
+  "dependencies": {
+    "adm-zip": "^0.5.16",
+    "rollup": "^4.28.1"
+  },
+  "devDependencies": {
+    "prettier": "^3.4.2"
+  }
+}
